@@ -1,0 +1,8 @@
+.DS_Store
+.babelrc
+.travis.yml
+.eslintrc
+.editorconfig
+.gitignore
+npm-debug.log
+src
